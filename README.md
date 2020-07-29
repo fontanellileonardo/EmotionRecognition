@@ -17,8 +17,8 @@ For each participant-video pair, the dataset contains 40 signals. All the signal
 Once the search for the best set of features is completed, the next step is to find the best architecture for both ANNs.
 The last step of this part of the project is to design and train two radial basis function (RBF) networks that do the same thing as the MLPs developed before.
 ## Code
-The [code](/code) in this repository refers to the **MatLab** code which has been the principal tool for extracting feature and training the MLP and RBF.
+The [code](/code) in this repository refers to the **MATLAB** code which has been the principal tool for extracting feature and training the MLP and RBF.
 ## Documentation
-The documentation that presents the results of this project can be consulted [here](/docs/documentation.pdf).
+The documentation that presents the results of this project can be consulted [here](/docs/documentation.pdf) (italian version only). For English details, you can contact me personally.
 ## Credits
 F. Fornaini, G. Alvaro, R. Polini, L. Fontanelli
